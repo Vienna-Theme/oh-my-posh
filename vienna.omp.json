@@ -19,7 +19,7 @@
                     "type": "path",
                     "style": "powerline",
                     "powerline_symbol": "",
-                    "template": "~/{{ .Path }} ",
+                    "template": "./{{ .Path }} ",
                     "foreground": "#ffffff",
                     "background": "#101010",
                     "properties": {
